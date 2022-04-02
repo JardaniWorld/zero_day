@@ -1,3 +1,3 @@
-#This project basically intoduces the concept of Virtual Machines and Vagrant as a tool
-#This repository is used to illustrate the concept of using Vagrant
-This project was done using the local computer and not a sandbox.
+#This project basically introduces the concept of Virtual Machines and Vagrant as a tool
+To illustrate this concept, a git repo is used to show that actions could be performed on git using this concept of Virtual Machines
+This project was done using the local computer and not a Sandbox
